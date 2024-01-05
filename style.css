@@ -17,6 +17,10 @@ body {
     align-items: center;
 }
 
+.container-result-final{
+    font-size: 25px;
+}
+
 .body {
     background-color: #202020;
     width: 100%;
